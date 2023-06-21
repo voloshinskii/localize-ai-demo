@@ -11,10 +11,10 @@ jobs:
       - name: Localize strings
         uses: voloshinskii/localize-ai@a7ca51ef9beeb2b9657e997bacf08ef510c17435
         with: 
-          model: gpt-4
+          model: "gpt-4"
           openai-token: ${{ secrets.OPENAI_TOKEN }}
-          locales-path: ./locales
-          main-locale: en
+          locales-path: "./locales"
+          main-locale: "en"
         
 
       - name: commit and push all changed files
