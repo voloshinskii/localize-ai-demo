@@ -1,1 +1,17 @@
-{}
+{
+  "hello_world": "안녕하세요, 세계!",
+  "actions": {
+    "add": "추가",
+    "delete": "삭제",
+    "edit": "편집",
+    "save": "저장",
+    "cancel": "취소",
+    "close": "닫기"
+  },
+  "screens": {
+    "wallet": "지갑",
+    "settings": "설정",
+    "search": "검색"
+  },
+  "add_to_cart": "장바구니에 추가 ({item_name})"
+}
