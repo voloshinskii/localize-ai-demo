@@ -1,1 +1,17 @@
-{}
+{
+  "hello_world": "Ciao Mondo!",
+  "actions": {
+    "add": "Aggiungi",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "close": "Chiudi"
+  },
+  "screens": {
+    "wallet": "Portafoglio",
+    "settings": "Impostazioni",
+    "search": "Ricerca"
+  },
+  "add_to_cart": "Aggiungi al carrello ({item_name})"
+}
