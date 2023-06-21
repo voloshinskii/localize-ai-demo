@@ -1,8 +1,5 @@
 name: Localize strings
-on:
-  push:
-    paths:
-      - locales/**
+on: [push]
 jobs:
   localize:
     runs-on: ubuntu-latest
