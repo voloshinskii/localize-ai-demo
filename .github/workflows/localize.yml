@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Localize strings
-        uses: voloshinskii/localize-ai@a7ca51ef9beeb2b9657e997bacf08ef510c17435
+        uses: voloshinskii/localize-ai@0bd1a06c2752893b8ee73237b01e018faff6eace
         with: 
           model: "gpt-4"
           openai-token: ${{ secrets.OPENAI_TOKEN }}
