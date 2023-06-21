@@ -1,2 +1,2 @@
-# Localize AI Action example repostiry
+# Localize AI Action example repository
 [Action](https://github.com/marketplace/actions/localize-ai)
