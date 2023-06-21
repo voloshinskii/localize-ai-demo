@@ -1,3 +1,17 @@
 {
-  "hello_world": "Hello World!"
+  "hello_world": "Hello World!",
+  "actions": {
+    "add": "Add",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "screens": {
+    "wallet": "Wallet",
+    "settings": "Settings",
+    "search": "Search",
+  },
+  "add_to_cart": "Add to cart ({item_name})"
 }
