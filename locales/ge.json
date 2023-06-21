@@ -1,1 +1,17 @@
-{}
+{
+  "hello_world": "Hallo Welt!",
+  "actions": {
+    "add": "Hinzufügen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "close": "Schließen"
+  },
+  "screens": {
+    "wallet": "Geldbörse",
+    "settings": "Einstellungen",
+    "search": "Suche"
+  },
+  "add_to_cart": "Zum Warenkorb hinzufügen ({item_name})"
+}
