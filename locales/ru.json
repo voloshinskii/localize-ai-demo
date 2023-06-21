@@ -1,3 +1,17 @@
 {
-  "hello_world": "Привет, мир!"
+  "hello_world": "Привет, мир!",
+  "actions": {
+    "add": "Добавить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "close": "Закрыть"
+  },
+  "screens": {
+    "wallet": "Кошелек",
+    "settings": "Настройки",
+    "search": "Поиск"
+  },
+  "add_to_cart": "Добавить в корзину ({item_name})"
 }

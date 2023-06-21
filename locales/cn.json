@@ -1,3 +1,17 @@
 {
-  "hello_world": "你好，世界！"
+  "hello_world": "你好，世界！",
+  "actions": {
+    "add": "添加",
+    "delete": "删除",
+    "edit": "编辑",
+    "save": "保存",
+    "cancel": "取消",
+    "close": "关闭"
+  },
+  "screens": {
+    "wallet": "钱包",
+    "settings": "设置",
+    "search": "搜索"
+  },
+  "add_to_cart": "添加到购物车（{item_name}）"
 }

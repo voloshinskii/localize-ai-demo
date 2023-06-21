@@ -1,3 +1,17 @@
 {
-  "hello_world": "Bonjour le monde !"
+  "hello_world": "Bonjour le monde !",
+  "actions": {
+    "add": "Agregar",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "save": "Guardar",
+    "cancel": "Отменить",
+    "close": "Fermer"
+  },
+  "screens": {
+    "wallet": "Portefeuille",
+    "settings": "Paramètres",
+    "search": "Recherche"
+  },
+  "add_to_cart": "Añadir al carrito ({item_name})"
 }

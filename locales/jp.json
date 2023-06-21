@@ -1,3 +1,17 @@
 {
-  "hello_world": "ハローワールド！"
+  "hello_world": "ハローワールド！",
+  "actions": {
+    "add": "追加",
+    "delete": "削除",
+    "edit": "編集",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "close": "閉じる"
+  },
+  "screens": {
+    "wallet": "ウォレット",
+    "settings": "設定",
+    "search": "検索"
+  },
+  "add_to_cart": "カートに追加 ({item_name})"
 }

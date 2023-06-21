@@ -1,3 +1,17 @@
 {
-  "hello_world": "¡Hola Mundo!"
+  "hello_world": "¡Hola Mundo!",
+  "actions": {
+    "add": "Añadir",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "close": "Cerrar"
+  },
+  "screens": {
+    "wallet": "Cartera",
+    "settings": "Configuración",
+    "search": "Buscar"
+  },
+  "add_to_cart": "Agregar al carrito ({item_name})"
 }

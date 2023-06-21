@@ -1,3 +1,17 @@
 {
-  "hello_world": "مرحبًا بالعالم!"
+  "hello_world": "مرحبًا بالعالم!",
+  "actions": {
+    "add": "أضف",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "close": "إغلاق"
+  },
+  "screens": {
+    "wallet": "محفظة",
+    "settings": "الإعدادات",
+    "search": "بحث"
+  },
+  "add_to_cart": "أضف إلى العربة ({item_name})"
 }
