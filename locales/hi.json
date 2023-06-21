@@ -1,1 +1,17 @@
-{}
+{
+  "hello_world": "नमस्ते दुनिया!",
+  "actions": {
+    "add": "जोड़ें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "close": "बंद करें"
+  },
+  "screens": {
+    "wallet": "वॉलेट",
+    "settings": "सेटिंग्स",
+    "search": "खोज"
+  },
+  "add_to_cart": "कार्ट में डालें ({item_name})"
+}
