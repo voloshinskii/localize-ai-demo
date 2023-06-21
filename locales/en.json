@@ -11,7 +11,7 @@
   "screens": {
     "wallet": "Wallet",
     "settings": "Settings",
-    "search": "Search",
+    "search": "Search"
   },
   "add_to_cart": "Add to cart ({item_name})"
 }
